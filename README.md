@@ -1,0 +1,2 @@
+# FastQC
+FastQC Singularity Recipe
